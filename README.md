@@ -13,7 +13,7 @@ If you want use bluetooth connection you have to use "remapkeys_bluetooth.sh" fi
 <ul>
   <li>Save this file on you home directory</li>
   <li>Run this command <i>"chmod +x remapkeys_bluetooth.sh"</i></li>
-  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/username/remapkeys.sh"</i> <p>(change username word with your account username)</p></li>
+  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/[user]/remapkeys.sh"</i> <p>(change user word with your account username)</p></li>
   <li>Reboot Mac</li>
 </ul>
 <p></p>
@@ -34,8 +34,13 @@ If you want to use Logitech Unifying Connector, you need to fix the mapping in W
   <p><i>Go back to Mac</i></p>
   <li>Save this file on you home directory</li>
   <li>Run this command <i>"chmod +x remapkeys.sh"</i></li>
-  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/username/remapkeys.sh"</i> <p>(change username word with your account username)</p></li>
+  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/[user]/remapkeys.sh"</i> <p>(change user word with your account username)</p></li>
   <li>Reboot Mac</li>
 </ul>
+
+
+<H4>Remap Keypad Comma to Dot</H4>
+
+If you need to remap also the comma in keypad, you've to insert <i>'DefaultKeyBinding.dict'</i> file in "/Users/[user]/Library/KeyBindings/". <p>(change user word with your account username)</p>
 
 Enjoy!
