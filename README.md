@@ -39,7 +39,7 @@ If you want to use Logitech Unifying Connector, you need to fix the mapping in W
 </ul>
 
 
-<H4>Remap Keypad Comma to Dot</H4>
+<H3>Remap Keypad Comma to Dot</H3>
 
 If you need to remap also the comma in keypad, you've to insert <i>'DefaultKeyBinding.dict'</i> file in "/Users/[user]/Library/KeyBindings/". <p>(change user word with your account username)</p>
 
