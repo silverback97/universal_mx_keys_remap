@@ -13,7 +13,7 @@ If you want use bluetooth connection you have to use "remapkeys_bluetooth.sh" fi
 <ul>
   <li>Save this file on you home directory</li>
   <li>Run this command <i>"chmod +x remapkeys_bluetooth.sh"</i></li>
-  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/<username>/remapkeys.sh"</i> <p>(change username with you account username, without brackets)</p></li>
+  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/<username>/remapkeys.sh"</i> <p>(change username with your account username, without brackets)</p></li>
   <li>Reboot Mac</li>
 </ul>
 <p></p>
@@ -34,7 +34,7 @@ If you want to use Logitech Unifying Connector, you need to fix the mapping in W
   <p><i>Go back to Mac</i></p>
   <li>Save this file on you home directory</li>
   <li>Run this command <i>"chmod +x remapkeys.sh"</i></li>
-  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/<username>/remapkeys.sh"</i> <p>(change username with you account username, without brackets)</p></li>
+  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/<username>/remapkeys.sh"</i> <p>(change username with your account username, without brackets)</p></li>
   <li>Reboot Mac</li>
 </ul>
 
