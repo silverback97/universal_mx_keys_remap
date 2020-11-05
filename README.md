@@ -7,7 +7,7 @@ With this guide you can re-map this key.
 
 <H3>Bluetooth Mode</H3>
 
-If you want use bluetooth connection you have to use "remapkeys_bluetooth.sh" file to remap this key. <i>(If you want use bluetooth and you have to unlock the FileVault when you start the Mac, you won't be able to because the keyboard does not natively allow it)</i>
+If you want use bluetooth connection you must use "remapkeys_bluetooth.sh" file to remap this key. <i>(If you want use bluetooth and you have to unlock the FileVault when you start the Mac, you won't be able to because the keyboard does not natively allow it)</i>
 
 <H4>Steps:</H4>
 <ul>
@@ -41,6 +41,6 @@ If you want to use Logitech Unifying Connector, you need to fix the mapping in W
 
 <H3>Remap Keypad Comma to Dot</H3>
 
-If you need to remap comma in keypad, you've to insert <i>"DefaultKeyBinding.dict"</i> file in "/Users/[user]/Library/KeyBindings/". <p>(change user word with your account username)</p>
+If you need to remap comma in keypad, you must insert <i>"DefaultKeyBinding.dict"</i> file in "/Users/[user]/Library/KeyBindings/". <p>(change user word with your account username)</p>
 
 Enjoy!
