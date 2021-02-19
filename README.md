@@ -32,7 +32,7 @@ If you want to use Logitech Unifying Connector, you need to fix the mapping in W
   <li>Check the box to use always the Windows mapping</li>
   <p></p>
   <p><i>Go back to Mac</i></p>
-  <li>Save this file on your home directory <i>"remapkeys.sh"</i>. If you've a Italian Keyboard and a Logitech Master MX 3, you must use <i>"remapkeys_MX3.sh"</i> (so rename this in "remapkeys.sh"). </li>
+  <li>Save this file on your home directory <i>"remapkeys.sh"</i>. If you've an italian keyboard and a Logitech Master MX 3, you must use <i>"remapkeys_MX3.sh"</i> (so rename this in "remapkeys.sh"). </li>
   <li>Run this command <i>"chmod +x remapkeys.sh"</i></li>
   <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/[user]/remapkeys.sh"</i> <p>(change user word with your account username)</p></li>
   <li>Reboot Mac</li>
