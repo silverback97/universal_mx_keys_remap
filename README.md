@@ -13,7 +13,7 @@ If you want use bluetooth connection you must use "remapkeys_bluetooth.sh" file 
 <ul>
   <li>Save this file on your home directory <i>"remapkeys_bluetooth.sh"</i></li>
   <li>Run this command <i>"chmod +x remapkeys_bluetooth.sh"</i></li>
-  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/[user]/remapkeys.sh"</i> <p>(change user word with your account username)</p></li>
+  <li>Run this command <i>"sudo defaults write com.apple.loginwindow LoginHook /Users/[user]/remapkeys_bluetooth.sh"</i> <p>(change user word with your account username)</p></li>
   <li>Reboot Mac</li>
 </ul>
 <p></p>
